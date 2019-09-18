@@ -15,3 +15,7 @@ a 3 version of pwnjammer - wireless-scanning tool !!!
 + added loading bar for installing or uninstalling
 + added quick or full uninstall option
 + if tool is not installed, pwnjammer3 is alert!
+# 3.2
++ capture file cracking option
++ other...
+
